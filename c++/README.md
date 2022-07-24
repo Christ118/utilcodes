@@ -9,6 +9,7 @@
 | lexing  | flex |
 |compressing | zlib, lzma2 |
 |web | mongoose|
+|game | sfml , allegro, ogre|
 
 ## list of development environnement for c++
 
